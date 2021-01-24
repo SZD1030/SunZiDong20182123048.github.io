@@ -1,8 +1,6 @@
 SunZiDong20182123048
 
 
-YangChunFu20182123027
-
 ### 一、仓库代码托管顺序图
 
 ![仓库代码托管顺序图](https://github.com/ycfxhsw/YangChunFu20182123027/blob/UML-Work/%E4%BB%93%E5%BA%93%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%EF%BC%88%E9%A1%BA%E5%BA%8F%E5%9B%BE%EF%BC%89.png)
